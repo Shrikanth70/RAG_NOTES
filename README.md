@@ -1,1 +1,1 @@
-# RAG_NOTES
+# RAG Notes
